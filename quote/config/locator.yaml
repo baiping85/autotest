@@ -1,0 +1,6 @@
+LoginPage:
+  username: //*[@id="UserName"]
+  password: //*[@id="Password"]
+  submit: /html/body/table/tbody/tr[1]/td[2]/form/table/tbody/tr[6]/td/input[1]
+  framemain: main
+  success_locator: /html/body/table/tbody/tr[1]/td/span
