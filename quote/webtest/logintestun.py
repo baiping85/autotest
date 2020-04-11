@@ -4,7 +4,7 @@ import sys
 
 from quote.util.exceloperation import ExcelOperation
 
-sys.path.append('C:\\Users\\baiping\\PycharmProjects\\P1905')
+#sys.path.append('C:\\Users\\baiping\\PycharmProjects\\P1905')
 from quote.base.operationbrowser import OperationBrowser
 from quote.base.useBrowser import UseBrowser
 from quote.page.login.loginpage import LoginPage
