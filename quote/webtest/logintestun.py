@@ -2,7 +2,7 @@ import HTMLTestRunner
 import unittest
 import sys
 
-sys.path.append('C:\\Users\\baiping\\PycharmProjects\\P1905')
+sys.path.append('C:\\.jenkins\\workspace\\Github')
 from quote.util.exceloperation import ExcelOperation
 from quote.base.operationbrowser import OperationBrowser
 from quote.base.useBrowser import UseBrowser
